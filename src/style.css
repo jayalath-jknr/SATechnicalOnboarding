@@ -35,7 +35,7 @@ main {
     background-color:#80fbff;
 }
 a{
-    color: rgb(86, 82, 155);
+    color: rgb(57, 138, 100);
 }
 h1 {
     color: #fff;
@@ -88,4 +88,7 @@ ul {
     position: relative;
     background: #fff;
     padding: 40px;
+}
+ul.no-bullets{
+    list-style-type:none;
 }
